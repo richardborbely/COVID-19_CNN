@@ -4,9 +4,9 @@ A modified MobileNet model is used to classify COVID-19 infected chest radiograp
 Class activation maps seem to show a reasonable distinction between the COVID-19 and Clean classes. More datapoints should be acquired and included to produce a more reliable model.
 
 To run the jupyter notebook, which contains the project:
-  - Download a 64bit version of Python
+  - Download a 64-bit version of Python
   
-  - Open CMD at .ipynb location
+  - Open console at .ipynb location
   
   - Acquire necessary libraries: "pip install tensorflow keras scikit-learn scipy Pillow pandas matplotlib jupyter"
   

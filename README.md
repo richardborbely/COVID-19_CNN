@@ -1,2 +1,1 @@
-# COVID-19_CNN
-COVID-19 diagnosis using a Convolutional Neural Network
+# COVID-19 vs Clean chest X-ray classification using a CNN

@@ -3,6 +3,10 @@
 A modified MobileNet model is used to classify COVID-19 infected chest radiographs. Evaluation of the network shows a 100% accuracy, and 1.0 AUC score.
 Class activation maps seem to show a reasonable distinction between the COVID-19 and Clean classes. More datapoints should be acquired and included to produce a more reliable model.
 
+
+![Class Activation Maps](./covid_cams.png)
+
+
 To run the jupyter notebook, which contains the project:
   - Download a 64-bit version of Python
   

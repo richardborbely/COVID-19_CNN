@@ -19,6 +19,8 @@ To import the model:
 
 
 
+.
+
 COVID-19 images acquired from: https://github.com/ieee8023/covid-chestxray-dataset
 
 Clean images from: https://nihcc.app.box.com/v/ChestXray-NIHCC
